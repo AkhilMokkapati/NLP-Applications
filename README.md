@@ -1,4 +1,11 @@
 # Part 1: POS Tagger
+
+#### Find the parts of speech tags for a new sentence given you have a labelled data with pos tags already.
+
+#### Given Parts of Speech (12) :
+
+#### ['adj', 'adv', 'adp', 'conj', 'det', 'noun', 'num', 'pron', 'prt', 'verb', 'x', '.']
+
  #### Part of Speech tagging is achieved by using the following algorithms:
 - Simplified (the most-probable tag for each word)
 - Viterbi Algorithm (maximum a posteriori (MAP))
